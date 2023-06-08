@@ -1,2 +1,2 @@
 # alx-zero_day
-alx git assignment
+alx git
